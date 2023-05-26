@@ -1,3 +1,10 @@
+```
+yarn
+yarn dev
+```
+
+### if you clone this repo, you can skip this step
+
 ### create vite vanilla js
 
 [https://vitejs.dev/guide/#scaffolding-your-first-vite-project](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
