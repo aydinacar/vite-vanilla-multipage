@@ -39,6 +39,8 @@ export default {
 @tailwind utilities;
 ```
 
+**note**: _if you want to multiple pages, you can continue to read_
+
 ### vite.config.js
 
 ```
